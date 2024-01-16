@@ -1,8 +1,7 @@
-# React + Vite
+# HYGEXX- FIGMA DESIGN USING React + Vite + Tailwindcss 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- ![Screenshot 2024-01-16 at 10 41 01 PM](https://github.com/nickoo20/Hyggex-frontend/assets/111230452/97690d77-279b-47c1-9903-bf5968d57045)
+- ![Screenshot 2024-01-16 at 10 41 13 PM](https://github.com/nickoo20/Hyggex-frontend/assets/111230452/00df1008-4602-4533-94af-a4cf9b3a1aa9)
+![Screenshot 2024-01-16 at 10 41 19 PM](https://github.com/nickoo20/Hyggex-frontend/assets/111230452/89913ebc-4b0d-423a-bd0c-9edc0d2ada0d)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
